@@ -4,7 +4,7 @@ The orphan of Asia. Made of milk and love.
 Mandarin Chinese native, CEFR B1 in English, and JLPT N5 in Japanese
 
 ## Interests
-- $\text{\LaTeX}$, Markdown
+- $\mathrm{\LaTeX}$, Markdown
 - linguistics
 - Linux
 - crossdressing ← I AM NOT A TRANS, DONT PUT ANYTHING EXPECTED!!!
