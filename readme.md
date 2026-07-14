@@ -10,8 +10,8 @@ Mandarin Chinese native, CEFR B1 in English, and JLPT N5 in Japanese
 - crossdressing ← I AM NOT A TRANS, DONT PUT ANYTHING EXPECTED!!!
 
 ## Education
-**University of Stack Overflow**
-Undergraduate (Major: Copy-Paste Architecture)
+**University of Stack Overflow**\
+Undergraduate (Major: Copy-Paste Architecture)\
 Internet
 
 ## To-dos
