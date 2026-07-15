@@ -24,7 +24,7 @@ Internet
 
 ## Contact
 - Email: [peasnow69@gmail.com](mailto:peasnow69@gmail.com)
-- Twitter: 無意識ユキさん ([@614yuki3](twitter.com/614yuki3))
+- Twitter: 無意識ユキさん ([@614yuki3](https://twitter.com/614yuki3))
 
 ## Trivia
 - I can use both Bopomofo and Pinyin, altho I dont use either of them in my daily life ([JackChows/Cangjie5](https://github.com/Jackchows/Cangjie5) mentioned)
